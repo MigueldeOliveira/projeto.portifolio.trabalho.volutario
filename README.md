@@ -6,3 +6,6 @@ Esse poftifólio é para mostrar como podemos ser empaticos e após sermos ajuda
 
 # sobre o código 
 Nesse codigo reutilizei um arquivo que tinha trabalhado a um tempo atrás e aproveitei que agora temos as IA's usei a Claude IA para me ajudar com algumas coisas e reestruturar o código de maneira mais eficaz.
+
+# link portifólio 
+https://projeto-portifolio-trabalho-volutar.vercel.app/
