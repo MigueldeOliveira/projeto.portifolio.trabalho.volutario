@@ -3,7 +3,7 @@
 # Sobre o projeto
 Este projeto tem como objetivo demonstrar como o uso de Inteligência Artificial pode potencializar o desenvolvimento de soluções, mantendo a essência e o propósito original da proposta.
 
-# Tema pricipal
+# Tema principal
 A iniciativa é baseada em empatia e colaboração, destacando a importância de transformar o apoio recebido em ações que também beneficiem outras pessoas, criando um ciclo positivo de ajuda.
 
 # Sobre o código 
