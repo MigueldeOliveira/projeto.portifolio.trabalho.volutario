@@ -1,11 +1,18 @@
-# projeto.portifolio.trabalho.volutario
-Nesse portifolio apresento como o conhecimento e a mão de obra da IA podem fazer coisas incrives, além de manter o conceito original do projeto.
+# Projeto Voluntário de Iniciativa Pessoal
 
-# tema pricipal
-Esse poftifólio é para mostrar como podemos ser empaticos e após sermos ajudado também ajudar o próximo.
+# Sobre o projeto
+Este projeto tem como objetivo demonstrar como o uso de Inteligência Artificial pode potencializar o desenvolvimento de soluções, mantendo a essência e o propósito original da proposta.
 
-# sobre o código 
-Nesse codigo reutilizei um arquivo que tinha trabalhado a um tempo atrás e aproveitei que agora temos as IA's usei a Claude IA para me ajudar com algumas coisas e reestruturar o código de maneira mais eficaz.
+# Tema pricipal
+A iniciativa é baseada em empatia e colaboração, destacando a importância de transformar o apoio recebido em ações que também beneficiem outras pessoas, criando um ciclo positivo de ajuda.
+
+# Sobre o código 
+O desenvolvimento foi realizado a partir da reutilização de uma base de código criada anteriormente, que passou por melhorias estruturais com o apoio de Inteligência Artificial.
+Ferramentas como a Claude foram utilizadas para auxiliar na organização, clareza e eficiência do código.
+
+# Objetivo 
+Demonstrar, na prática, como a tecnologia pode ser utilizada não apenas para evolução técnica, mas também para gerar impacto positivo por meio de iniciativas voluntárias.
+
 
 # link portifólio 
 https://projeto-portifolio-trabalho-volutar.vercel.app/
